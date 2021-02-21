@@ -6,8 +6,6 @@ This repo includes:
 
 * A presentation about how POMDP:s have been solved theoreticly before Deep RL. 
 
-* A folder containing implementations of a Jump Markov Linear System, Hidden Markov Model, Kalman Filter and a Hidden Markov Model-filter.
-
 ## References
 <a id="1">[1]</a> 
 [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), Mnih et al, 2013.
